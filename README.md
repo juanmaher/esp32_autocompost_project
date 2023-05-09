@@ -1,2 +1,1 @@
-# esp32_autocompost_project
- ESP32 - AutoCompost Project
+# ESP32 - AutoCompost Project
